@@ -15,7 +15,6 @@ BoomBikes aspires to understand the demand for shared bikes among the people aft
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 
@@ -33,14 +32,12 @@ Finally, the 'cnt' variable indicates the total number of bike rentals, includin
 
 The model should be built taking this 'cnt' as the target variable.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
 - Temperature (temp) - A coefficient value of ‘0.5636’ indicated that a unit increase in temp variable increases the bike hire numbers by 0.5636 units.
 - Weather Situation 3 (weathersit_3) - A coefficient value of ‘-0.3070’ indicated that, w.r.t Weathersit1, a unit increase in Weathersit3 variable decreases the bike hire numbers by 0.3070 units.
 - Year (yr) - A coefficient value of ‘0.2308’ indicated that a unit increase in yr variable increases the bike hire numbers by 0.2308 units.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
@@ -48,13 +45,14 @@ The model should be built taking this 'cnt' as the target variable.
 - NumPy, pandas
 - Matplotlib, seaborn
 - sklearn, statemodel, OLS
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+
 
 ## Acknowledgements
 Give credit here.Pt
+
 - This project was IIIT,B Upgrade multiple linear regression assignment.
 
 
 ## Contact
-Created by [@githubomkarkurve] - feel free to contact me!
-
+Created by https://github.com/omkarkurve/Bike-sharing- - feel free to contact me!
+kurve.omkar@gmail.com
